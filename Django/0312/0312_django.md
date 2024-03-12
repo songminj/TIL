@@ -117,12 +117,23 @@ Django에서 애플리케이션을 구조화하는 패턴
 views.py에서 많은 비즈니스가 이루어진다. 
 
 
-## 걀론
-1. .gitignore 파일 추가
-2. 가상환경 설치
-3. 가상환경 실행
-4. pip install django
-5. 
+### Django 함수 
+1. `render()`
+    html파일로 응답을 줄 때 사용한다
+2. ``
+
+
+
+## 결론
+1. .gitignore 파일 추가 (.gitignore파일 생성. pythong과 Django 설정을 모두 체크해야함)
+2. 가상환경 설치 (`python -m venv venv`)
+3. 가상환경 실행 (`source venv/Scripts/activate`)
+4. pip install django (혹은 `pip install -r requirements.txt`)
+5. 의존성 파일 생성 (pip freeze > requirements.txt)
+6. Django 프로젝트 생성 (`django-admin startproject {프로젝트명} . `)
+7. Django 서버 실행 (`python manange.py runserver`)
+8. 앱 생성 (`python manage.py startapp articles`)
+
 
 
 
