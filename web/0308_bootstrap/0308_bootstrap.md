@@ -151,3 +151,5 @@ bootstrap에서 제공하는 UI관련 요소
 ```
 
 [snippet generator](https://snippet-generator.app/?description=&tabtrigger=&snippet=%3C%21DOCTYPE+html%3E%0A%3Chtml+lang%3D%22en%22%3E%0A%3Chead%3E%0A++++%3Cmeta+charset%3D%22UTF-8%22%3E%0A++++%3Cmeta+name%3D%22viewport%22+content%3D%22width%3Ddevice-width%2C+initial-scale%3D1.0%22%3E%0A++++%3Ctitle%3EDocument%3C%2Ftitle%3E%0A++++%3Clink+href%3D%22https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fbootstrap%405.3.3%2Fdist%2Fcss%2Fbootstrap.min.css%22+rel%3D%22stylesheet%22+integrity%3D%22sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW%2BALEwIH%22+crossorigin%3D%22anonymous%22%3E%0A%3C%2Fhead%3E%0A%3Cbody%3E%0A++++%3Cdiv+class%3D%22container%22%3E%0A++++++++%0A++++%3C%2Fdiv%3E%0A++++%3Cscript+src%3D%22https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fbootstrap%405.3.3%2Fdist%2Fjs%2Fbootstrap.bundle.min.js%22+integrity%3D%22sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz%22+crossorigin%3D%22anonymous%22%3E%3C%2Fscript%3E%0A%3C%2Fbody%3E%0A%3C%2Fhtml%3E&mode=vscode)
+
+수정완료
