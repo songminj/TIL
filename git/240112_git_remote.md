@@ -33,4 +33,16 @@
     * 생성된 내용을 그대로 복사하여 .gitignore에 붙여넣자
 
 
+## 자리 옮겼을 때 
+* 계정 확인 
+`git config --global --list`
+
+* 내 계정 정보 입력 
+`git config --global user.email 이메일주소`
+`git config --global user.name 이름`
+
+* 자격증명 정보 확인
+자격증명 -> windows 자격증명 
+삭제!
+
 
